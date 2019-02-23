@@ -80,6 +80,14 @@ body {
   border-bottom-color: #fff;
 }
 
+
+
+
+li
+{
+  list-style: none;
+}
+
 @media (min-width: 48em) {
   .masthead-brand {
     float: left;
