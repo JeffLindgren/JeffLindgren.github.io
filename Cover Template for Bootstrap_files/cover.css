@@ -56,6 +56,7 @@ body {
 
 .masthead-brand {
   margin-bottom: 0;
+  padding-right: 2.5em;
 }
 
 .nav-masthead .nav-link {
@@ -81,6 +82,12 @@ body {
 }
 
 
+
+
+li.contact_sty
+{
+  text-align: left;
+}
 
 
 li
