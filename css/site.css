@@ -125,6 +125,18 @@ body {
 }
 
 
+
+
+
+.project-heading
+{
+  color: cadetblue;
+}
+
+
+
+
+
 /*
  * Affix and center
  */
@@ -158,3 +170,5 @@ body {
     width: 42rem;
   }
 }
+
+

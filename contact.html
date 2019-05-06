@@ -35,8 +35,16 @@
 
       <main role="main" class="inner cover">
         <h1 class="cover-heading">Contact</h1>
-        <p class="lead">jefflsbm@gmail.com</p>
-        <p class="lead">222-222-2222</p>
+        <form action="mailto:jefflsbm@gmail.com" method="post" enctype="text/plain">
+          Name:<br>
+          <input type="text" name="name"><br>
+          E-mail:<br>
+          <input type="text" name="mail"><br>
+          Comment:<br>
+          <textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea><br>
+          <input type="submit" value="Send">
+          <input type="reset" value="Reset">
+          </form>
 
       </main>
 
