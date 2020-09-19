@@ -1,0 +1,50 @@
+img.home
+{
+    width: 50%;
+    width: 50%;
+    margin-left: 0.7em;
+    padding: 0 1em;
+    float: left;
+    margin-bottom: 1em;
+    max-width: 700px;
+}
+
+
+h1
+{
+    background-color: black;
+    text-align: center;
+    padding: .6em;
+    margin: 1em;
+    clear: left;
+}
+
+h3
+{
+    font-size: 1em;
+    font-weight: 100;
+    padding: 0 1.5em;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%
+}
+
+
+
+p.home
+{
+    margin: .9em;
+}
+
+
+@media screen and (max-width: 768px) {
+    h3
+    {
+        margin: 0;
+    }
+
+
+
+}
+
+

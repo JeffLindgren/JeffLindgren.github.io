@@ -1,0 +1,40 @@
+body
+{
+	background-image: url(../assets/images/background.jpg);
+}
+
+.bg
+{
+	background-color: white;
+}
+
+.images
+{
+	width: 90%;
+}
+
+.ti
+{
+	font-weight: bold;
+	font-size: 1em;
+	list-style-type: none;
+}
+
+.food
+{
+	font-weight: bold;
+	font-size: 2em;
+	list-style-type: none;
+}
+
+.bg
+{
+	background-color: white;
+	padding: 1em;
+}
+
+.recip
+{
+	padding: 2em;
+	margin: 1em;
+}

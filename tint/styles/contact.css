@@ -1,0 +1,142 @@
+/*https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form*/
+
+fieldset 
+{
+  margin: 0 auto;
+  width: 40%;
+  padding: 1em;
+    margin-right: 10%;
+  border: 1px solid #CCC;
+  border-radius: 1em;
+    text-align: right;
+    float: right;
+}
+
+
+label 
+{
+  width: 2em;
+
+}
+
+input, textarea 
+{
+  font: 1em sans-serif;
+
+  width: 70%;
+
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
+
+legend
+{
+    padding-top: 0.6em;
+    margin-right: 1em;
+}
+
+select
+{
+    text-align: center;
+    margin: .4em .6em;
+}
+
+
+.radio
+{
+
+    text-align: center;
+    float: right;
+    padding: .3em 0
+}
+
+
+textarea 
+{
+  vertical-align: top;
+
+  height: 5em;
+  resize: vertical;
+}
+
+.button
+{
+    width: 7em;
+    float: right;
+    padding-right: 0.6em;
+    clear: right
+}
+
+
+
+.contact
+{
+    margin-left: 10%;
+}
+
+
+
+p.contact
+{
+    font-size: 1.3em;
+    padding-left: 20px;
+
+}
+
+
+
+p strong
+{
+    font-size: 1.2em
+}
+
+p a
+{
+    color: skyblue
+}
+
+h3
+{
+    margin-left: 5px;
+    font-size: 1.1em;
+    clear: left;
+}
+
+
+
+@media screen and (max-width: 768px) {
+    fieldset
+    {
+        width: 65%;
+        float: none;
+        text-align: center;
+    }
+    
+    select
+    {
+        float: none;
+        text-align: center;
+    }
+    
+
+    
+    .contact
+    {
+        margin-left: 0;
+        padding-left: 0;
+    }
+    
+    ul.contact
+    {
+        padding-top: 1em;
+        text-align: center;
+        list-style-type: none;
+        
+    }
+    
+    p.contact
+    {
+        text-align: center;
+        padding-left: 0;
+    }
+}

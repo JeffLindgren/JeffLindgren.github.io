@@ -1,0 +1,43 @@
+body
+{
+	/*background-image: url(../assets/images/cards-bg.jpg);*/
+	/*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+
+}
+
+img
+{
+	width: 7%;
+}
+
+
+.cardStyleImg
+{
+	display: inline;
+	padding-top: 2em;
+}
+
+
+
+td
+{
+	padding: 1.1em;
+}
+
+
+
+form
+{
+	text-align: center;
+}
+
+.hide
+{
+	display: none;
+}
+
+.oldStats
+{
+	list-style-type: none;
+}

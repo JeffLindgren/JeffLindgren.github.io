@@ -1,0 +1,57 @@
+#main
+{
+    height: 70em;
+}
+
+
+
+.service
+{
+    text-align: center;
+}
+
+.service img
+{
+    width: 40%;
+    height: 40%;
+    max-width: 400px;
+}
+
+
+p.st
+{
+    text-align: center;
+    padding: 2em 6em;
+    background-color: black;
+    padding: 1em;
+    display: block;
+    margin: 1em 7em
+}
+
+@media screen and (max-width: 785px) {
+    #main
+    {
+        height: 60em;
+    }
+    p.st
+    {
+        margin: 1em 0;
+    }
+    
+    .service img
+    {
+        width: 80%;
+        height: 80%;
+        max-width: 250px;
+    }
+}
+
+
+@media screen and (min-width: 1700px) {
+    p.st
+    {
+        margin: 1em 25em;
+    }
+    
+
+}

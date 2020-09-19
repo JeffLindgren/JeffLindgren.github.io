@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recipies>
+	<recipe>
+	<!-- https://www.saveur.com/article/Recipes/Enchiladas -->
+		<food>ENCHILADAS</food>
+		<ingredients>
+			<ingredient>8 dried New Mexico chiles, stemmed and seeded. </ingredient>
+			<ingredient>1 oz. Mexican chocolate, such as Ibarra, roughly chopped. </ingredient>
+			<ingredient>1⁄2 tsp. dried oregano. </ingredient>
+			<ingredient>1⁄4 tsp. ground cinnamon. </ingredient>
+			<ingredient>4 saltine crackers or 2 1⁄2 tbsp. bread crumbs. </ingredient>
+			<ingredient>1 clove garlic. </ingredient>
+			<ingredient>1 whole clove. </ingredient>
+			<ingredient>1⁄2 cup plus 1 tbsp. canola oil. </ingredient>
+			<ingredient>Kosher salt, to taste. </ingredient>
+			<ingredient>2 cups queso añejo, grated, plus more to garnish 1⁄2 small yellow onion, minced. </ingredient>
+			<ingredient>12 corn tortillas. </ingredient>
+		</ingredients>
+
+
+
+		<instructions>
+
+			<instruction>Makes 12 </instruction>
+
+			<instruction></instruction>
+
+			<instruction>Make the red chile sauce: Heat chiles in a 12″ skillet over high heat, and cook, turning as needed, until toasted, about 5 minutes; transfer chiles to a blender with chocolate, oregano, cinnamon, crackers, garlic, clove, and 1 1⁄2 cups boiling water, and let sit for 5 minutes. Puree until smooth, and then pour sauce through a fine strainer into a bowl. </instruction>
+			<instruction>Heat 1 tbsp. oil in a 2-qt. saucepan over medium-high heat, and add chile sauce; cook, stirring often, until reduced and thickened, about 6 minutes. Season with salt and set aside. </instruction>
+			<instruction>To assemble the enchiladas, combine the queso añejo and onion in a small bowl and set aside. Pour oil to a depth of 2″ in a 6-qt. Dutch oven and heat over medium-high heat until a deep-fry thermometer reads 350°. </instruction>
+			<instruction>Using tongs, grasp all the tortillas in a stack and submerge in oil, swirling in oil until slightly fried and pliable, about 15 seconds. (The surface of the tortillas should puff up in tiny pockets in several places.) Remove from oil and set aside on a plate to cool. (Alternatively, you may wrap the tortillas in a damp towel towel and briefly microwave to steam.) </instruction>
+			<instruction>Dip each tortilla in chile sauce until completely coated. Transfer to a plate and top with 3 tbsp. cheese filling; roll up like a cigar and sprinkle with more cheese. Serve immediately with rice and beans. </instruction>
+		</instructions>
+
+	
+
+
+	</recipe>
+
+	<recipe>
+	<!-- https://simply-delicious-food.com/cheese-jalapeno-corn-fritters/ -->
+		<food>Cheese jalapeño corn fritters</food>
+		<ingredients>
+			<ingredient>6 ears of corn roasted/grilled and kernels cut off the cob. </ingredient>
+			<ingredient>2 cups flour. </ingredient>
+			<ingredient>2 teaspoons baking powder. </ingredient>
+			<ingredient>1 teaspoon salt. </ingredient>
+			<ingredient>1 teaspoon sugar. </ingredient>
+			<ingredient>1 teaspoon smoked paprika. </ingredient>
+			<ingredient>1.5 cups milk. </ingredient>
+			<ingredient>1 egg. </ingredient>
+			<ingredient>1 cup grated mature cheddar. </ingredient>
+			<ingredient>1-2 jalapeños finely chopped. </ingredient>
+			<ingredient>vegetable oil for frying. </ingredient>
+		</ingredients>
+
+
+
+		<instructions>
+			<instruction>Prep Time 30 mins. </instruction>
+			<instruction>Cook Time 20 mins. </instruction>
+			<instruction>Total Time 50 mins. </instruction>
+			<instruction>Servings: 15-20. </instruction>
+
+			<instruction></instruction>
+
+			<instruction>In a large bowl, whisk together the flour, baking powder, salt, sugar and smoked paprika. </instruction>
+			<instruction>In a measuring jug/bowl, whisk together the milk and egg. </instruction>
+			<instruction>Slowly mix the wet ingredients into the dry and mix until the batter is smooth. </instruction>
+			<instruction>Stir in the corn kernels, cheese and jalapeños. </instruction>
+			<instruction>Heat enough oil to deep-fry the fritters in a large pot then drop spoonfuls of the mixture into the sizzling oil. </instruction>
+			<instruction>Fry until golden brown and cooked through then remove and drain on kitchen paper. Repeat until all the batter has been fried. </instruction>
+			<instruction>Serve with lemon wedges. </instruction>
+			
+		</instructions>
+
+	
+
+
+	</recipe>
+
+
+</recipies>
